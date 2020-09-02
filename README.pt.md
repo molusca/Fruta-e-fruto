@@ -1,6 +1,6 @@
 ## 🍎🍊 Fruta & Fruto 🍊🍎
 
-[Read in English | Leia em Inglês](https://github.com/molusca/Front-End/blob/master/fruta_e_fruto/README.md)
+[Read in English | Leia em Inglês](README.md)
 
   Esse projeto foi realizado ao decorrer do [curso de Bootstrap 4](https://www.alura.com.br/curso-online-bootstrap-landing-page) da [Alura](https://www.alura.com.br/), no meu primeiro contato com o framework!
 
