@@ -16,6 +16,7 @@
 
   - É possível acessar tanto pelo desktop quanto por aparelhos mobile;
   - Você vai precisar apenas de um navegador da internet (Chrome, Firefox, Opera etc.);
-  - Basta fazer o download dos arquivos e abrir o `index.html` com seu navegador.
+  - **É possível acessar através desse link: https://fruta-e-fruto.vercel.app/**
+  - Caso queira acessar localmente, basta fazer o download dos arquivos e abrir o `index.html` com seu navegador;
 
 **Em caso de dúvidas ou sugestões, entre em contato comigo: [Linkedin](https://www.linkedin.com/in/lucas-r-freitas/) | [E-mail](mailto:pro.lucasrfreitas@gmail.com)**
